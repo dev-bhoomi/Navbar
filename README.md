@@ -11,7 +11,6 @@ This project is a React.js component that provides a visually appealing, rounded
 
 ## Screenshots
 
-![App Screenshot](https://app.screenclip.com/XNZa)
 
 
 ## Appendix
